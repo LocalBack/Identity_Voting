@@ -8,12 +8,12 @@
 ---
 
 ## 📋 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Contract Overview](#contract-overview)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Contact](#contact)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Contract Overview](#-contract-overview)
+- [Testing](#-testing)
+- [Deployment](#-deployment)
+- [Contact](#-contact)
 
 
 ## 🌟 Features
