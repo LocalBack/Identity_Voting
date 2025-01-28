@@ -1,4 +1,4 @@
-# Privacy in Swarm Robotics: Secure Identity verification and Anonymous Voting
+# Privacy in Swarm Robotics: Secure Identity Verification and Anonymous Voting
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://github.com/LocalBack/Identity_Voting/actions/workflows/ci.yml/badge.svg)](https://github.com/LocalBack/Identity_Voting/actions)
